@@ -148,7 +148,7 @@ python3 main.py
 
 ## Resuts of training model
 
-| Parameter          |        Значение |
+| Parameter          |        Value    |
 | ------------------ | --------------: |
 | Accuracy           |            67 % |
 | Number of classes  |              24 |
